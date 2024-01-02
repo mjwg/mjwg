@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Max!</h1>
-<h3 align="center">A kid that really doesn't do anything but ai.</h3>
+<h3 align="center">I need to focus on school :(.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjwg&label=Profile%20views&color=0e75b6&style=flat" alt="mjwg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjwg" alt="mjwg" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **A AI frontend/ School**
 
 - 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **Anything really, contact me at @mjfw on discord**
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **@mjfw on discord!**
 
